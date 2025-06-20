@@ -61,7 +61,7 @@ Para ejecutar este proyecto, necesitarás:
 
 Esto debería iniciar la aplicación, comenzando con la ventana de inicio de sesión.
 
-## 🧑‍💻 Desarrollado por Aarón Silva Chorres
+## 🧑‍💻 Desarrollado por Andersson Jaren Flores Ruiz
 
 **Universidad:** Universidad Tecnológica del Perú
 **Curso:** Diseño de Patrones
